@@ -7,5 +7,4 @@ def add(a,b):
 '''
     Write a meaningful function here, unlike the one above
 
-    Then, add a test case for this function in tests/test.py
-'''
+    Then, add a test case for this function in tests/test.py'''
