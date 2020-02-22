@@ -7,7 +7,7 @@ install:
 
 test:
 	#python -m pytest -vv --cov=myrepolib tests/*.py
-	python -m tests/test.py
+	python tests/test.py
 
 
 lint:
